@@ -1,2 +1,25 @@
-# homeschooling-spreadsheet-calculator-bundle
-10 pre-built calculators, trackers, and dashboards for common Homeschooling calculations. Instant spreadsheet tools without building from scratch.
+# Homeschooling Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU9AT7r14sc6xy7jCd0q2j)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU9AT7r14sc6xy7jCd0q2j)
+
